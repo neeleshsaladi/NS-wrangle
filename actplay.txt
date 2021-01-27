@@ -1,0 +1,184 @@
+<i>Enter TROILUS armed, and PANDARUS</i>
+<A NAME=speech2><b>PANDARUS</b></a>
+<A NAME=speech4><b>PANDARUS</b></a>
+<A NAME=speech6><b>PANDARUS</b></a>
+<A NAME=speech8><b>PANDARUS</b></a>
+<A NAME=speech10><b>PANDARUS</b></a>
+<A NAME=speech12><b>PANDARUS</b></a>
+<A NAME=speech14><b>PANDARUS</b></a>
+<A NAME=1.1.46>O Pandarus! I tell thee, Pandarus,--</A><br>
+<A NAME=speech16><b>PANDARUS</b></a>
+<A NAME=speech18><b>PANDARUS</b></a>
+<A NAME=1.1.67>Good Pandarus, how now, Pandarus!</A><br>
+<A NAME=speech20><b>PANDARUS</b></a>
+<A NAME=1.1.71>What, art thou angry, Pandarus? what, with me?</A><br>
+<A NAME=speech22><b>PANDARUS</b></a>
+<A NAME=speech24><b>PANDARUS</b></a>
+<A NAME=1.1.81>Pandarus,--</A><br>
+<A NAME=speech26><b>PANDARUS</b></a>
+<A NAME=1.1.83>Sweet Pandarus,--</A><br>
+<A NAME=speech28><b>PANDARUS</b></a>
+<p><i>Exit PANDARUS. An alarum</i></p>
+<A NAME=1.1.91>But Pandarus,--O gods, how do you plague me!</A><br>
+<A NAME=1.2.40>Madam, your uncle Pandarus.</A><br>
+<p><i>Enter PANDARUS</i></p>
+<A NAME=speech17><b>PANDARUS</b></a>
+<A NAME=1.2.44>Good morrow, uncle Pandarus.</A><br>
+<A NAME=speech19><b>PANDARUS</b></a>
+<A NAME=speech21><b>PANDARUS</b></a>
+<A NAME=speech23><b>PANDARUS</b></a>
+<A NAME=speech25><b>PANDARUS</b></a>
+<A NAME=speech27><b>PANDARUS</b></a>
+<A NAME=speech29><b>PANDARUS</b></a>
+<A NAME=speech31><b>PANDARUS</b></a>
+<A NAME=speech33><b>PANDARUS</b></a>
+<A NAME=speech35><b>PANDARUS</b></a>
+<A NAME=speech37><b>PANDARUS</b></a>
+<A NAME=speech39><b>PANDARUS</b></a>
+<A NAME=speech41><b>PANDARUS</b></a>
+<A NAME=speech43><b>PANDARUS</b></a>
+<A NAME=speech45><b>PANDARUS</b></a>
+<A NAME=speech47><b>PANDARUS</b></a>
+<A NAME=speech49><b>PANDARUS</b></a>
+<A NAME=speech51><b>PANDARUS</b></a>
+<A NAME=speech53><b>PANDARUS</b></a>
+<A NAME=speech55><b>PANDARUS</b></a>
+<A NAME=speech57><b>PANDARUS</b></a>
+<A NAME=speech59><b>PANDARUS</b></a>
+<A NAME=speech61><b>PANDARUS</b></a>
+<A NAME=speech63><b>PANDARUS</b></a>
+<A NAME=speech65><b>PANDARUS</b></a>
+<A NAME=speech67><b>PANDARUS</b></a>
+<A NAME=speech69><b>PANDARUS</b></a>
+<A NAME=speech71><b>PANDARUS</b></a>
+<A NAME=speech73><b>PANDARUS</b></a>
+<A NAME=speech75><b>PANDARUS</b></a>
+<A NAME=speech77><b>PANDARUS</b></a>
+<A NAME=speech79><b>PANDARUS</b></a>
+<A NAME=speech81><b>PANDARUS</b></a>
+<A NAME=speech83><b>PANDARUS</b></a>
+<A NAME=speech85><b>PANDARUS</b></a>
+<A NAME=speech87><b>PANDARUS</b></a>
+<A NAME=speech89><b>PANDARUS</b></a>
+<A NAME=speech91><b>PANDARUS</b></a>
+<A NAME=speech93><b>PANDARUS</b></a>
+<A NAME=speech95><b>PANDARUS</b></a>
+<A NAME=speech97><b>PANDARUS</b></a>
+<A NAME=speech99><b>PANDARUS</b></a>
+<A NAME=speech101><b>PANDARUS</b></a>
+<A NAME=speech103><b>PANDARUS</b></a>
+<A NAME=speech105><b>PANDARUS</b></a>
+<A NAME=speech107><b>PANDARUS</b></a>
+<A NAME=speech109><b>PANDARUS</b></a>
+<A NAME=speech111><b>PANDARUS</b></a>
+<A NAME=speech113><b>PANDARUS</b></a>
+<A NAME=speech115><b>PANDARUS</b></a>
+<A NAME=speech117><b>PANDARUS</b></a>
+<A NAME=speech119><b>PANDARUS</b></a>
+<A NAME=speech121><b>PANDARUS</b></a>
+<A NAME=speech123><b>PANDARUS</b></a>
+<A NAME=speech125><b>PANDARUS</b></a>
+<A NAME=speech127><b>PANDARUS</b></a>
+<A NAME=speech129><b>PANDARUS</b></a>
+<A NAME=speech131><b>PANDARUS</b></a>
+<A NAME=speech133><b>PANDARUS</b></a>
+<A NAME=speech135><b>PANDARUS</b></a>
+<A NAME=speech137><b>PANDARUS</b></a>
+<A NAME=speech139><b>PANDARUS</b></a>
+<p><i>Exit PANDARUS</i></p>
+<i>Enter a Servant and PANDARUS</i>
+<A NAME=speech1><b>PANDARUS</b></a>
+<A NAME=speech3><b>PANDARUS</b></a>
+<A NAME=speech5><b>PANDARUS</b></a>
+<A NAME=speech7><b>PANDARUS</b></a>
+<A NAME=speech9><b>PANDARUS</b></a>
+<A NAME=3.1.11>Friend, know me better; I am the Lord Pandarus.</A><br>
+<A NAME=speech11><b>PANDARUS</b></a>
+<A NAME=speech13><b>PANDARUS</b></a>
+<A NAME=speech15><b>PANDARUS</b></a>
+<A NAME=speech17><b>PANDARUS</b></a>
+<A NAME=speech19><b>PANDARUS</b></a>
+<A NAME=speech21><b>PANDARUS</b></a>
+<A NAME=speech23><b>PANDARUS</b></a>
+<A NAME=speech25><b>PANDARUS</b></a>
+<A NAME=speech27><b>PANDARUS</b></a>
+<A NAME=speech29><b>PANDARUS</b></a>
+<A NAME=speech31><b>PANDARUS</b></a>
+<A NAME=speech33><b>PANDARUS</b></a>
+<A NAME=speech35><b>PANDARUS</b></a>
+<A NAME=speech37><b>PANDARUS</b></a>
+<A NAME=speech39><b>PANDARUS</b></a>
+<A NAME=3.1.63>My Lord Pandarus; honey-sweet lord,--</A><br>
+<A NAME=speech41><b>PANDARUS</b></a>
+<A NAME=speech43><b>PANDARUS</b></a>
+<A NAME=speech45><b>PANDARUS</b></a>
+<A NAME=3.1.74>My Lord Pandarus,--</A><br>
+<A NAME=speech47><b>PANDARUS</b></a>
+<A NAME=speech50><b>PANDARUS</b></a>
+<A NAME=speech52><b>PANDARUS</b></a>
+<A NAME=speech54><b>PANDARUS</b></a>
+<A NAME=speech56><b>PANDARUS</b></a>
+<A NAME=speech58><b>PANDARUS</b></a>
+<A NAME=speech60><b>PANDARUS</b></a>
+<A NAME=speech62><b>PANDARUS</b></a>
+<A NAME=speech64><b>PANDARUS</b></a>
+<A NAME=speech66><b>PANDARUS</b></a>
+<A NAME=speech68><b>PANDARUS</b></a>
+<A NAME=speech71><b>PANDARUS</b></a>
+<A NAME=3.1.130>He hangs the lip at something: you know all, Lord Pandarus.</A><br>
+<A NAME=speech74><b>PANDARUS</b></a>
+<A NAME=speech76><b>PANDARUS</b></a>
+<A NAME=speech78><b>PANDARUS</b></a>
+<h3>SCENE II. The same. Pandarus' orchard.</h3>
+<i>Enter PANDARUS and Troilus's Boy, meeting</i>
+<A NAME=speech1><b>PANDARUS</b></a>
+<A NAME=speech3><b>PANDARUS</b></a>
+<A NAME=speech5><b>PANDARUS</b></a>
+<A NAME=3.2.8>No, Pandarus: I stalk about her door,</A><br>
+<A NAME=3.2.13>Proposed for the deserver! O gentle Pandarus,</A><br>
+<A NAME=speech7><b>PANDARUS</b></a>
+<p><i>Re-enter PANDARUS</i></p>
+<A NAME=speech9><b>PANDARUS</b></a>
+<p><i>Re-enter PANDARUS with CRESSIDA</i></p>
+<A NAME=speech11><b>PANDARUS</b></a>
+<A NAME=speech13><b>PANDARUS</b></a>
+<p><i>Re-enter PANDARUS</i></p>
+<A NAME=speech27><b>PANDARUS</b></a>
+<A NAME=speech29><b>PANDARUS</b></a>
+<A NAME=speech31><b>PANDARUS</b></a>
+<A NAME=speech36><b>PANDARUS</b></a>
+<A NAME=speech39><b>PANDARUS</b></a>
+<A NAME=speech51><b>PANDARUS</b></a>
+<A NAME=speech54><b>PANDARUS</b></a>
+<h3>SCENE II. The same. Court of Pandarus' house.</h3>
+<A NAME=speech11><b>PANDARUS</b></a>
+<p><i>Enter PANDARUS</i></p>
+<A NAME=speech14><b>PANDARUS</b></a>
+<A NAME=speech16><b>PANDARUS</b></a>
+<A NAME=speech18><b>PANDARUS</b></a>
+<A NAME=speech22><b>PANDARUS</b></a>
+<A NAME=speech24><b>PANDARUS</b></a>
+<A NAME=speech26><b>PANDARUS</b></a>
+<A NAME=speech28><b>PANDARUS</b></a>
+<A NAME=speech36><b>PANDARUS</b></a>
+<A NAME=speech38><b>PANDARUS</b></a>
+<A NAME=speech40><b>PANDARUS</b></a>
+<A NAME=speech42><b>PANDARUS</b></a>
+<A NAME=speech44><b>PANDARUS</b></a>
+<A NAME=speech46><b>PANDARUS</b></a>
+<A NAME=speech48><b>PANDARUS</b></a>
+<h3>SCENE III. The same. Street before Pandarus' house.</h3>
+<h3>SCENE IV. The same. Pandarus' house.</h3>
+<i>Enter PANDARUS and CRESSIDA</i>
+<A NAME=speech1><b>PANDARUS</b></a>
+<A NAME=speech3><b>PANDARUS</b></a>
+<A NAME=speech5><b>PANDARUS</b></a>
+<A NAME=speech8><b>PANDARUS</b></a>
+<A NAME=speech17><b>PANDARUS</b></a>
+<p><i>Enter PANDARUS</i></p>
+<A NAME=speech43><b>PANDARUS</b></a>
+<A NAME=speech45><b>PANDARUS</b></a>
+<A NAME=speech47><b>PANDARUS</b></a>
+<p><i>As TROILUS is going out, enter, from the other side, PANDARUS</i></p>
+<A NAME=speech7><b>PANDARUS</b></a>
+<A NAME=speech9><b>PANDARUS</b></a>
